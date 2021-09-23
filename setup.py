@@ -7,7 +7,7 @@ README = (HERE / "README.md").read_text()
 setup(
     name='multiprocesser',
     version='',
-    packages=[''],
+    packages=['multiprocesser'],
     url='',
     license='',
     author='erolsson',
