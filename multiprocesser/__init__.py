@@ -1,1 +1,2 @@
 from multiprocesser.multiprocesser import multi_processer
+from multiprocesser.multiprocesser import apply
