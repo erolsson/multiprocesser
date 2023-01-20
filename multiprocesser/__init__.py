@@ -1,2 +1,4 @@
 from multiprocesser.multiprocesser import multi_processer
 from multiprocesser.multiprocesser import apply
+from multiprocesser.multiprocesser import process_function
+from multiprocesser.multiprocesser import MultiProcesser
